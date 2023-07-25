@@ -9,3 +9,5 @@ Progetto valido per il corso di Big Data A.A. 2022/2023
 - Framework PySpark
 
 Il progetto è stato implementato in PySpark, tramite Google Colab, con la finalità di risolvere il problema del frequent itemset mining utilizzando un approccio distribuito
+
+Ulteriori dettagli sono disponibili nel file "Relazione.pdf"
