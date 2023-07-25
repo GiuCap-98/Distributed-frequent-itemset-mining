@@ -2,7 +2,7 @@
 Benchmark di algoritmi per la MBA in PySpark
 (UNIVR)
 
-Progetto valido per il corso di Big Data A.A. 2022/2023 
+Progetto valido per il corso di Big Data (A.A. 2022/2023) presso l'Università degli Studi di Verona
 
 - Dataset: https://archive.ics.uci.edu/dataset/502/online+retail+ii
 - Algoritmi implementati: YAFIM, SON, APRIORI
