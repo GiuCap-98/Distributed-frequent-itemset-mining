@@ -1,6 +1,5 @@
 # MBA-PySpark
-Benchmark di algoritmi per la MBA in PySpark
-(UNIVR)
+Benchmark di algoritmi per la Market Basket Analysis (MBA) in PySpark
 
 Progetto valido per il corso di Big Data (A.A. 2022/2023) presso l'Università degli Studi di Verona
 
